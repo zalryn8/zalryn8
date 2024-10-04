@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zalryn8
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning in programming
 
 
